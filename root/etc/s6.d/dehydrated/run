@@ -15,4 +15,4 @@ if [[ "$DEHYDRATED_ACCEPT_TERMS" == "yes" ]]; then
 fi
 
 # Run the weekly script once
-/etc/periodic/weekly/dehydrated
+/etc/periodic/15min/dehydrated
